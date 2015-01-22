@@ -1,2 +1,3 @@
-# devdataprod
-Developing Data Products (Coursera)
+## Developing Data Products (Coursera) Assignment
+##Simple Body Mass Index (BMI) Calculator
+In this simple calculator, you will enter personal information on weight, height, and age. You have the option to enter data using either the Imperial or Metric system. In the case of individuals under 18 years of age, you will also be prompted for gender. Based on the data you enter, your BMI will then be calculated. You may then refer to the table in the main panel in order to benchmark your BMI. As you change your data inputs, the BMI calculator will automatically refresh to show you a revised BMI value.
